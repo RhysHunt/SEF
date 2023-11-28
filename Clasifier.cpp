@@ -1,6 +1,6 @@
 void train{
 	printf("Train");
-	printf("The first feature is added")
+	printf("The second feature is added")
 }
 
 void predict{
